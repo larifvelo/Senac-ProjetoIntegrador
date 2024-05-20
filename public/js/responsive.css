@@ -1,0 +1,50 @@
+header {
+    padding: 10px; 
+}
+
+.logo h1 {
+    font-size: 2em;
+}
+
+.logo p {
+    font-size: 1em;
+}
+
+.user-options {
+    top: 10px;
+    right: 10px;
+}
+
+.user-option {
+    padding: 5px 10px;
+    font-size: 1em;
+}
+
+.welcome {
+    padding: 10px;
+}
+
+.welcome h2 {
+    font-size: 1.5em;
+}
+
+.categories, .services {
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+.category, .service {
+    padding: 10px 15px;
+    font-size: 1em;
+}
+
+footer {
+    padding: 10px;
+}
+
+footer p {
+    font-size: 0.8em;
+}
